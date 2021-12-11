@@ -15,8 +15,5 @@
 
 ## Things to try
 
-- How to default to swapping meta and super?
-- Move ctrl to bottom left? or maybe share it with esc
-- Create a motion layer
-- Single key for space, use the other key for easier layer switching
+- Toggle motion layer
 
